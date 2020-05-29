@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/zongbaol/TDD.svg?branch=master)](https://travis-ci.org/zongbaol/TDD)
+[![codecov](https://codecov.io/gh/zongbaol/TDD/branch/master/graph/badge.svg)](https://codecov.io/gh/zongbaol/TDD)
